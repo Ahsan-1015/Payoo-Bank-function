@@ -8,10 +8,10 @@
 
 
 ### Screenshot 2
-![Screenshot 2](https://github.com/Ahsan-1015/Payoo-Bank-function/blob/main/images-readme.md/Screenshot%202024-09-20%20163259.png)
+![Screenshot 2](https://github.com/Ahsan-1015/Payoo-Bank-function/blob/main/images-readme.md/Screenshot%202024-09-20%20163259.png) ![Screenshot 3](https://github.com/Ahsan-1015/Payoo-Bank-function/blob/main/images-readme.md/Screenshot%202024-09-20%20163321.png)
 
 ### Screenshot 3
-![Screenshot 3](https://github.com/Ahsan-1015/Payoo-Bank-function/blob/main/images-readme.md/Screenshot%202024-09-20%20163321.png)
+
 
 ### Screenshot 4
 ![Screenshot 4](https://github.com/Ahsan-1015/Payoo-Bank-function/blob/main/images-readme.md/Screenshot%202024-09-20%20163342.png)

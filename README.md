@@ -9,10 +9,8 @@ This project is deployed on Vercel. You can view it here: [View Live](https://pa
 ### Screenshot 1
 ![Screenshot 3](https://github.com/Ahsan-1015/Payoo-Bank-function/blob/main/images-readme.md/Screenshot%202024-09-20%20163321.png)
 
-
 ### Screenshot 2
 ![Screenshot 2](https://github.com/Ahsan-1015/Payoo-Bank-function/blob/main/images-readme.md/Screenshot%202024-09-20%20163259.png) 
-
 
 ### Screenshot 3
 ![Screenshot 4](https://github.com/Ahsan-1015/Payoo-Bank-function/blob/main/images-readme.md/Screenshot%202024-09-20%20163342.png)

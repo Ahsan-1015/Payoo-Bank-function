@@ -1,11 +1,11 @@
 ## Project Interface
 
-![Login Screen](https://github.com/Ahsan-1015/Payoo-Bank-function/blob/main/images-readme.md/Screenshot%202024-09-20%20160757.png)
+![Login Screen](https://github.com/Ahsan-1015/Payoo-Bank-function/blob/main/images-readme.md/Screenshot%202024-09-20%20160757.png) ![Screenshot 1](https://github.com/Ahsan-1015/Payoo-Bank-function/blob/main/images-readme.md/Screenshot%202024-09-20%20160757.png)
 
 ## Project Screenshots
 
 ### Screenshot 1
-![Screenshot 1](https://github.com/Ahsan-1015/Payoo-Bank-function/blob/main/images-readme.md/Screenshot%202024-09-20%20160757.png)
+
 
 ### Screenshot 2
 ![Screenshot 2](https://github.com/Ahsan-1015/Payoo-Bank-function/blob/main/images-readme.md/Screenshot%202024-09-20%20163259.png)
